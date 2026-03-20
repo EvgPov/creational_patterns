@@ -1,0 +1,33 @@
+[
+  {
+    "id": "a945caa2-78c1-45d4-b903-7d8407014770",
+    "date": "20-03-2026 20:48",
+    "table_number": 3,
+    "status": "Создан",
+    "items": [
+      {
+        "name": "Суши 'Калифорния'",
+        "price": 415,
+        "type": "Sushi"
+      },
+      {
+        "name": "Морс 0.3",
+        "price": 95,
+        "type": "Drink"
+      }
+    ]
+  },
+  {
+    "id": "d7fadc38-c05c-4074-9cf9-a5a0d7d66c85",
+    "date": "20-03-2026 20:48",
+    "table_number": 10,
+    "status": "Создан",
+    "items": [
+      {
+        "name": "Комбо: Пицца 'Маргарита' - Cola 0.5 - Тирамису",
+        "price": 805.5,
+        "type": "ComboMeal"
+      }
+    ]
+  }
+]
